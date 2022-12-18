@@ -1,0 +1,25 @@
+.background{
+    
+    background-color: #e3e9ef;
+
+   align-items: flex-start;
+}
+.background-input{
+    padding: 5rem 0rem 0rem 12rem;
+}
+.cityinput{
+    margin-top: 5rem;
+    margin-left: 5rem;
+    display: flex;
+    align-items: center;
+   
+    background: none;
+    width: auto;
+    border-radius: 0px;
+}
+.cityinput input{
+    padding: 0px;
+}
+.cityinput button{
+    height: 2rem;
+}

@@ -1,0 +1,29 @@
+.routeform{
+    width: 100%;
+    z-index: 2;
+}
+form{
+    background-color: white;
+    width: 100%;
+    aspect-ratio: 4;
+   
+    justify-content: center;
+    border-radius: 0px 0px 10px 10px;
+   
+}
+input{
+    height: 2rem;
+    aspect-ratio: 8;
+    margin: 5px;
+    background: #80808047;
+    
+}
+button{
+    width: 5rem;
+ 
+    border: 1px solid rgb(61, 61, 61);
+    background-color:#1732ad ;
+    padding: 5px 10px;
+    font-size: 15px;
+    color: wheat;
+}

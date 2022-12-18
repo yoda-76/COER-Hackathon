@@ -1,0 +1,21 @@
+.guideform{
+    width: 100%;
+    z-index: 2;
+    
+}
+input{
+    height: 2rem;
+    aspect-ratio: 8;
+    margin: 5px;
+    /* border-radius: 7px; */
+    border: none;
+
+}
+button{
+    width: 5rem;
+    border: 1px solid rgb(61, 61, 61);
+    background-color:#1732ad ;
+    padding: 5px 10px;
+    font-size: 15px;
+    color: wheat;
+}

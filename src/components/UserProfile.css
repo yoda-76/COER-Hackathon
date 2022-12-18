@@ -1,0 +1,39 @@
+.userprofile{
+    width: 25rem;
+    background-color: aliceblue;
+}
+.userprofile-info{
+    padding: 5px 15px 5px 15px;
+    width: 100%;
+}
+
+.userprofile-info-buttons{
+    width: 100%;
+}
+.userprofile-dp{
+    height: 8rem;
+    aspect-ratio: 1;
+}
+.userprofile-dp div{
+    height: 100%;
+    aspect-ratio: 1;
+    background-position: center;
+    background-size: cover;
+}
+.uploaderbuttons{
+    width:auto;
+    aspect-ratio: 1;
+}
+.uploaderbuttons-dislike,.uploaderbuttons-like{
+    width:1.5rem;
+    
+
+aspect-ratio: 1;
+}
+.uploaderbuttons-dislike div,.uploaderbuttons-like div{
+width: 100%;
+aspect-ratio: 1;
+/* border: 1px solid black; */
+background-position: center;
+background-size: cover;
+}

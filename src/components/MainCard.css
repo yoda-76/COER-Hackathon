@@ -1,0 +1,22 @@
+.maincard{
+    padding-top: 10rem;
+    border-bottom: 1px solid black;
+    position: fixed;
+    right: 5rem;
+   width: 30rem;
+}
+.toggleModes{
+    /* margin-top: 10rem; */
+    background-color: white;
+    width: 100%;
+    /* border-bottom: 1px solid black; */
+}
+.toggleModes p{
+   color:#1732ad ;
+}
+
+button{
+    /* border: none; */
+    /* padding-top: 5px; */
+    margin: 5px 10px;
+}

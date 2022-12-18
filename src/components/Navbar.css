@@ -1,0 +1,12 @@
+.Navbar-frame{
+    width: 100%;
+   
+    position: fixed;
+}   
+
+button{
+    width: 150px;
+    font-size: larger;
+    font-weight: 900;
+    height: 50px;
+}

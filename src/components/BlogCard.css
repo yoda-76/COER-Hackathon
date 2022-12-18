@@ -1,0 +1,68 @@
+.blogcard
+{
+    width: 35rem;
+    margin-top: 1rem;
+    padding: 1rem;
+    background: white;
+    box-shadow: 0 5px 10px rgb(0 0 0 / 30%);
+}
+.uploaderinfo{
+    width: 14rem;
+    align-content: flex-start;
+   
+}
+.uploaderinfo-img{
+    height: 3rem;
+    aspect-ratio: 1;
+}
+.uploaderinfo-img  div{
+    box-shadow: 0 5px 10px rgb(0 0 0 / 70%);
+ 
+}
+.uploaderinfo-text{
+    margin: 5px 0px 5px 0px;
+}
+.uploaderinfo-img div{
+    width: 100%;
+    border-radius: 50%;
+    height: 100%;
+    background-position: center;
+    background-repeat: none;
+    background-size: cover;
+}
+
+.uploaderphoto{
+    height: 22rem;
+    aspect-ratio: 1;
+    margin: 10px 0px 10px 0px;
+}
+.uploaderphoto div{
+   
+    width: 100%;
+    height: 100%;
+    background-position: center;
+    background-repeat: none;
+    background-size: cover;
+}
+.uploadercaption{
+    margin: 5px 0px 5px 0px;
+    text-align: center;
+    font-size: .75rem;
+}
+.uploaderbuttons{
+    width:auto;
+    aspect-ratio: 1;
+}
+.uploaderbuttons-dislike,.uploaderbuttons-like{
+    width:1.5rem;
+
+
+aspect-ratio: 1;
+}
+.uploaderbuttons-dislike div,.uploaderbuttons-like div{
+width: 100%;
+aspect-ratio: 1;
+/* border: 1px solid black; */
+background-position: center;
+background-size: cover;
+}

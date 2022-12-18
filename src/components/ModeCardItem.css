@@ -1,0 +1,16 @@
+.modecarditem {
+    width: 25rem;
+    margin: 5px 10px 5px 10;
+    row-gap: 1em;
+}
+.modecarditem-heading{
+    width: 100%;
+    justify-content: space-evenly;
+}
+.modecarditem-heading h5{
+    width: 50%;
+}
+.modecarditem-data{
+   width: 100%;
+   justify-content: space-evenly;
+}
