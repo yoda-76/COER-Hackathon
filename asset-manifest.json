@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/COER-Hackathon/static/css/main.45b4b384.css",
+    "main.js": "/COER-Hackathon/static/js/main.fed98287.js",
+    "static/media/bg-img.jpg": "/COER-Hackathon/static/media/bg-img.4c8bf7807772022e6213.jpg",
+    "static/media/post.jpg": "/COER-Hackathon/static/media/post.65376f83ba29bab7ec4c.jpg",
+    "static/media/dp.webp": "/COER-Hackathon/static/media/dp.b9372a1d1fc6773df7fc.webp",
+    "static/media/guide-img.jpg": "/COER-Hackathon/static/media/guide-img.8973c6f693904286e45b.jpg",
+    "static/media/post9.jpeg": "/COER-Hackathon/static/media/post9.dd9d57f54195ea9ad020.jpeg",
+    "static/media/post11.jpeg": "/COER-Hackathon/static/media/post11.a557e796e02719be90e0.jpeg",
+    "static/media/post2.jpeg": "/COER-Hackathon/static/media/post2.a557e796e02719be90e0.jpeg",
+    "index.html": "/COER-Hackathon/index.html",
+    "static/media/feed.svg": "/COER-Hackathon/static/media/feed.9c8b0312fbdd82760c7fcb308b088fa6.svg",
+    "static/media/findRoute.svg": "/COER-Hackathon/static/media/findRoute.a83f9073b4435f70bcff3953db6a89ce.svg",
+    "main.45b4b384.css.map": "/COER-Hackathon/static/css/main.45b4b384.css.map",
+    "main.fed98287.js.map": "/COER-Hackathon/static/js/main.fed98287.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.45b4b384.css",
+    "static/js/main.fed98287.js"
+  ]
+}
